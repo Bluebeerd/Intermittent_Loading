@@ -1,0 +1,9 @@
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\bin\Debug\netstandard2.1\StartUpIssue.Shared.deps.json
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\bin\Debug\netstandard2.1\StartUpIssue.Shared.dll
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\bin\Debug\netstandard2.1\StartUpIssue.Shared.pdb
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.csprojAssemblyReference.cache
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.csproj.CoreCompileInputs.cache
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.AssemblyInfoInputs.cache
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.AssemblyInfo.cs
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.dll
+C:\Users\russ\source\repos\StartUpSolution\StartUpIssue\Shared\obj\Debug\netstandard2.1\StartUpIssue.Shared.pdb
